@@ -1,0 +1,5 @@
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Skin_Plus.exe.config
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Skin_Plus.exe
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Skin_Plus.pdb
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\obj\Debug\Skin_Plus.exe
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\obj\Debug\Skin_Plus.pdb

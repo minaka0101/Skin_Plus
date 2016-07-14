@@ -1,0 +1,18 @@
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Change_Skin.exe.config
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Change_Skin.exe
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Change_Skin.pdb
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\EloBuddy.dll
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\EloBuddy.SDK.dll
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\SharpDX.dll
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Newtonsoft.Json.dll
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\obj\Debug\Change_Skin.exe
+c:\users\minaka\documents\visual studio 2012\Projects\Change_Skin\Change_Skin\obj\Debug\Change_Skin.pdb
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Change_Skin.exe.config
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\obj\Debug\Change_Skin.exe
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\obj\Debug\Change_Skin.pdb
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Change_Skin.exe
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Change_Skin.pdb
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\obj\Debug\Change_Skin.csprojResolveAssemblyReference.cache
+K:\tam thoi\Documents\Visual Studio 2012\Projects\Change_Skin\Change_Skin\bin\Debug\Skin_Plus.exe.config

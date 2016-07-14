@@ -1220,13 +1220,13 @@ namespace Change_Skin
     {
         public Slider getSlider()
         {
-            return new Slider("Skin", 4, 0, 4);
+            return new Slider("Skin", 4, 0, 5);
         }
         public string[] getlistskin()
         {
             var sid = new[]
             {
-                "Default", "Royal Guard", "Nightraven", "Headmistress","PROJECT"
+                "Default", "Royal Guard", "Nightraven", "Headmistress","PROJECT","Pool Party"
             };
             return sid;
         }
@@ -1249,6 +1249,9 @@ namespace Change_Skin
                     break;
                 case "PROJECT":
                     Player.SetSkinId(4);
+                    break;
+                case "Pool Party":
+                    Player.SetSkinId(5);
                     break;
             }
         }
@@ -2906,13 +2909,13 @@ namespace Change_Skin
     {
         public Slider getSlider()
         {
-            return new Slider("Skin", 2, 0, 8);
+            return new Slider("Skin", 2, 0, 9);
         }
         public string[] getlistskin()
         {
             var sid = new[]
             {
-                "Default", "Cowgirl", "Waterloo", "Secret Agent","Candy Cane","Road Warrior","Mafia","Arcade","Captain"
+                "Default", "Cowgirl", "Waterloo", "Secret Agent","Candy Cane","Road Warrior","Mafia","Arcade","Captain","Pool Party"
             };
             return sid;
         }
@@ -2947,6 +2950,9 @@ namespace Change_Skin
                     break;
                 case "Captain":
                     Player.SetSkinId(8);
+                    break;
+                    case "Pool Party":
+                    Player.SetSkinId(9);
                     break;
             }
         }
@@ -4482,13 +4488,13 @@ namespace Change_Skin
     {
         public Slider getSlider()
         {
-            return new Slider("Skin", 2, 0, 3);
+            return new Slider("Skin", 2, 0, 4);
         }
         public string[] getlistskin()
         {
             var sid = new[]
             {
-                "Default", "Emerald", "Armor of the Fifth Age", "Bloodstone"
+                "Default", "Emerald", "Armor of the Fifth Age", "Bloodstone","Pool Party"
             };
             return sid;
         }
